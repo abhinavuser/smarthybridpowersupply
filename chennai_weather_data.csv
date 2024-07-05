@@ -1,0 +1,6 @@
+Date,Temperature (°C),Humidity (%),Precipitation (mm),Wind Speed (km/h),Weather Condition
+2024-02-01,30,70,0,10,Sunny
+2024-02-02,29,75,0.5,12,Partly Cloudy
+2024-02-03,31,68,0,15,Sunny
+2024-02-04,32,72,1,14,Light Rain
+2024-02-05,28,80,0,11,Cloudy
